@@ -1,0 +1,25 @@
+{
+  "name": "restapimongoose",
+  "version": "1.0.0",
+  "description": "creating restful api web services using mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilip-pmap/restapimongoose.git"
+  },
+  "author": "dilip gudivada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilip-pmap/restapimongoose/issues"
+  },
+  "homepage": "https://github.com/dilip-pmap/restapimongoose#readme",
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.3"
+  }
+}
